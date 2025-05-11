@@ -1,0 +1,201 @@
+CustomerID,Age,Gender,LoyaltyStatus,PurchaseAmount,Category,TransactionDate,StoreVisits,LastPurchaseDaysAgo,DiscountUsed
+C001,29,Female,Silver,55.12,Sports,01-01-2024,4,3,No
+C002,56,Male,Bronze,475.64,Fashion,02-01-2024,1,14,Yes
+C003,19,Female,Gold,207.99,Sports,03-01-2024,1,24,No
+C004,55,Female,Silver,272.22,Sports,04-01-2024,9,25,No
+C005,19,Male,Silver,389.56,Fashion,05-01-2024,7,26,Yes
+C006,43,Male,Bronze,308.43,Grocery,06-01-2024,6,4,No
+C007,31,Female,Bronze,471.2,Home & Kitchen,07-01-2024,3,22,Yes
+C008,42,Male,Silver,441.63,Fashion,08-01-2024,1,1,No
+C009,53,Male,Platinum,290.32,Home & Kitchen,09-01-2024,10,15,No
+C010,36,Female,Silver,28.45,Sports,10-01-2024,7,24,Yes
+C011,40,Male,Platinum,150.91,Electronics,11-01-2024,7,14,Yes
+C012,58,Female,Gold,96.06,Electronics,12-01-2024,8,14,Yes
+C013,65,Male,Silver,20.32,Home & Kitchen,13-01-2024,5,26,Yes
+C014,24,Female,Bronze,311.51,Sports,14-01-2024,1,10,No
+C015,51,Female,Platinum,445.46,Grocery,15-01-2024,3,5,No
+C016,35,Female,Bronze,455.94,Home & Kitchen,16-01-2024,5,23,Yes
+C017,34,Male,Bronze,392.5,Fashion,17-01-2024,4,29,Yes
+C018,22,Female,Bronze,387.15,Fashion,18-01-2024,8,29,Yes
+C019,28,Male,Bronze,200.77,Sports,19-01-2024,7,2,No
+C020,47,Male,Gold,179.65,Home & Kitchen,20-01-2024,10,30,Yes
+C021,64,Male,Gold,378.03,Sports,21-01-2024,1,27,Yes
+C022,22,Male,Gold,187.7,Sports,22-01-2024,9,17,Yes
+C023,44,Female,Bronze,388.53,Home & Kitchen,23-01-2024,10,14,No
+C024,60,Female,Silver,247.26,Home & Kitchen,24-01-2024,2,25,Yes
+C025,26,Female,Bronze,230.48,Home & Kitchen,25-01-2024,10,24,Yes
+C026,64,Male,Silver,266.4,Grocery,26-01-2024,8,6,Yes
+C027,31,Male,Gold,79.16,Electronics,27-01-2024,2,3,Yes
+C028,33,Female,Platinum,368.53,Electronics,28-01-2024,8,21,Yes
+C029,25,Female,Silver,354.44,Grocery,29-01-2024,3,12,Yes
+C030,64,Male,Bronze,31.2,Sports,30-01-2024,5,22,Yes
+C031,48,Female,Silver,108.42,Grocery,31-01-2024,9,17,No
+C032,26,Male,Bronze,238.12,Grocery,01-02-2024,3,24,Yes
+C033,36,Male,Platinum,347.43,Fashion,02-02-2024,9,17,No
+C034,25,Female,Platinum,69.64,Fashion,03-02-2024,10,2,Yes
+C035,43,Male,Gold,50.18,Fashion,04-02-2024,4,21,No
+C036,18,Female,Silver,132.02,Fashion,05-02-2024,7,24,Yes
+C037,40,Female,Gold,228.45,Fashion,06-02-2024,2,11,Yes
+C038,58,Female,Bronze,284.66,Fashion,07-02-2024,7,28,Yes
+C039,19,Female,Platinum,72.45,Fashion,08-02-2024,8,14,No
+C040,24,Female,Silver,348.69,Home & Kitchen,09-02-2024,1,30,No
+C041,65,Male,Bronze,33.76,Electronics,10-02-2024,8,19,Yes
+C042,30,Male,Silver,202.33,Sports,11-02-2024,6,3,No
+C043,49,Female,Bronze,442.25,Grocery,12-02-2024,3,3,Yes
+C044,45,Female,Platinum,416.52,Electronics,13-02-2024,3,15,No
+C045,55,Male,Bronze,135.74,Sports,14-02-2024,6,24,No
+C046,58,Female,Silver,86.23,Fashion,15-02-2024,10,27,Yes
+C047,31,Male,Platinum,31.76,Electronics,16-02-2024,8,16,No
+C048,19,Male,Platinum,322.23,Fashion,17-02-2024,8,22,Yes
+C049,55,Female,Bronze,494.88,Electronics,18-02-2024,5,24,No
+C050,20,Male,Bronze,254.19,Home & Kitchen,19-02-2024,8,28,No
+C051,43,Male,Platinum,85.77,Electronics,20-02-2024,1,23,Yes
+C052,56,Male,Gold,229.53,Sports,21-02-2024,3,16,Yes
+C053,25,Male,Gold,328.46,Home & Kitchen,22-02-2024,3,11,Yes
+C054,50,Female,Bronze,72.71,Sports,23-02-2024,7,25,No
+C055,42,Male,Gold,303.4,Electronics,24-02-2024,5,20,Yes
+C056,60,Female,Gold,401.9,Fashion,25-02-2024,9,29,Yes
+C057,19,Female,Platinum,187.84,Home & Kitchen,26-02-2024,4,2,No
+C058,24,Female,Bronze,476.76,Home & Kitchen,27-02-2024,3,11,Yes
+C059,42,Female,Gold,200.8,Sports,28-02-2024,1,5,Yes
+C060,56,Female,Bronze,490.78,Home & Kitchen,01-03-2024,5,29,Yes
+C061,60,Male,Bronze,338.22,Fashion,02-03-2024,10,25,Yes
+C062,47,Male,Gold,449.27,Home & Kitchen,03-03-2024,4,10,No
+C063,30,Male,Platinum,288.66,Sports,04-03-2024,6,30,Yes
+C064,30,Female,Bronze,205.77,Fashion,05-03-2024,5,21,No
+C065,30,Male,Bronze,491.13,Sports,06-03-2024,9,6,No
+C066,60,Female,Platinum,494.87,Sports,07-03-2024,9,28,No
+C067,53,Male,Silver,409.81,Grocery,08-03-2024,8,4,No
+C068,60,Male,Silver,13.37,Sports,09-03-2024,9,25,Yes
+C069,62,Female,Bronze,277.22,Sports,10-03-2024,8,26,No
+C070,34,Female,Bronze,271.04,Electronics,11-03-2024,2,2,Yes
+C071,41,Female,Silver,364.9,Electronics,12-03-2024,6,20,No
+C072,39,Female,Platinum,419.39,Fashion,13-03-2024,10,5,No
+C073,45,Male,Bronze,352.53,Sports,14-03-2024,6,10,No
+C074,60,Male,Platinum,470.61,Fashion,15-03-2024,2,4,Yes
+C075,42,Male,Platinum,165.49,Grocery,16-03-2024,8,12,Yes
+C076,42,Female,Silver,229.72,Electronics,17-03-2024,9,18,No
+C077,54,Female,Silver,55.19,Electronics,18-03-2024,10,24,Yes
+C078,36,Female,Bronze,233.42,Fashion,19-03-2024,4,2,No
+C079,30,Male,Silver,115.07,Home & Kitchen,20-03-2024,6,13,Yes
+C080,63,Female,Silver,301.12,Grocery,21-03-2024,8,18,Yes
+C081,43,Female,Silver,316.42,Sports,22-03-2024,6,25,Yes
+C082,43,Male,Platinum,335.11,Sports,23-03-2024,8,25,Yes
+C083,60,Male,Silver,257.11,Grocery,24-03-2024,9,21,Yes
+C084,39,Female,Gold,23.77,Electronics,25-03-2024,9,26,No
+C085,20,Male,Gold,222.12,Home & Kitchen,26-03-2024,2,8,Yes
+C086,43,Male,Bronze,443.82,Electronics,27-03-2024,10,17,No
+C087,57,Male,Platinum,266.03,Grocery,28-03-2024,10,14,Yes
+C088,64,Male,Silver,453.68,Electronics,29-03-2024,5,17,Yes
+C089,26,Male,Platinum,442.79,Electronics,30-03-2024,4,3,No
+C090,45,Female,Gold,412.29,Sports,31-03-2024,8,26,No
+C091,54,Male,Platinum,272.71,Electronics,01-04-2024,5,4,No
+C092,62,Male,Bronze,20.76,Electronics,02-04-2024,3,1,No
+C093,31,Male,Gold,308.64,Home & Kitchen,03-04-2024,5,17,No
+C094,31,Male,Silver,172.27,Electronics,04-04-2024,10,9,No
+C095,57,Female,Gold,401.31,Fashion,05-04-2024,9,13,Yes
+C096,38,Male,Bronze,40.35,Grocery,06-04-2024,7,1,No
+C097,48,Male,Gold,300.33,Grocery,07-04-2024,6,9,Yes
+C098,31,Male,Gold,249.83,Electronics,08-04-2024,6,14,No
+C099,63,Male,Silver,238.96,Home & Kitchen,09-04-2024,6,9,Yes
+C100,34,Male,Gold,352.31,Grocery,10-04-2024,2,18,No
+C101,40,Female,Gold,407.58,Sports,11-04-2024,1,24,Yes
+C102,26,Female,Platinum,448.41,Fashion,12-04-2024,10,3,No
+C103,43,Female,Platinum,310.94,Fashion,13-04-2024,5,7,No
+C104,52,Male,Gold,336.41,Home & Kitchen,14-04-2024,4,28,Yes
+C105,19,Male,Bronze,490.14,Fashion,15-04-2024,6,1,Yes
+C106,65,Male,Silver,491.56,Electronics,16-04-2024,4,12,No
+C107,44,Male,Platinum,356.86,Home & Kitchen,17-04-2024,7,25,Yes
+C108,58,Male,Gold,152.76,Fashion,18-04-2024,3,27,Yes
+C109,21,Female,Bronze,490.76,Sports,19-04-2024,6,24,No
+C110,20,Male,Silver,425.39,Grocery,20-04-2024,4,6,No
+C111,57,Male,Bronze,279.36,Electronics,21-04-2024,9,9,Yes
+C112,21,Female,Platinum,12.34,Fashion,22-04-2024,6,27,Yes
+C113,54,Male,Bronze,409.26,Electronics,23-04-2024,3,27,Yes
+C114,26,Female,Platinum,24.12,Electronics,24-04-2024,2,16,No
+C115,48,Female,Bronze,338.86,Grocery,25-04-2024,9,14,No
+C116,53,Female,Silver,485.87,Fashion,26-04-2024,9,13,No
+C117,20,Male,Silver,139.16,Electronics,27-04-2024,1,4,Yes
+C118,50,Male,Platinum,58.77,Fashion,28-04-2024,7,25,No
+C119,54,Female,Silver,43.37,Home & Kitchen,29-04-2024,3,28,Yes
+C120,26,Female,Silver,32.26,Grocery,30-04-2024,2,22,No
+C121,30,Female,Silver,407.62,Fashion,01-05-2024,7,13,Yes
+C122,33,Male,Platinum,247.56,Sports,02-05-2024,8,5,Yes
+C123,24,Male,Bronze,203.15,Electronics,03-05-2024,9,3,No
+C124,43,Male,Gold,416.42,Home & Kitchen,04-05-2024,4,5,Yes
+C125,52,Female,Silver,322.73,Fashion,05-05-2024,5,4,No
+C126,45,Male,Platinum,160.04,Sports,06-05-2024,5,8,No
+C127,45,Female,Silver,84.34,Home & Kitchen,07-05-2024,8,12,No
+C128,37,Female,Gold,254.56,Grocery,08-05-2024,1,10,Yes
+C129,49,Male,Bronze,375.13,Grocery,09-05-2024,1,27,No
+C130,49,Female,Platinum,378.18,Electronics,10-05-2024,8,7,No
+C131,32,Male,Gold,175.8,Grocery,11-05-2024,8,17,Yes
+C132,55,Female,Silver,97.18,Sports,12-05-2024,9,30,Yes
+C133,47,Female,Platinum,76.24,Fashion,13-05-2024,1,17,No
+C134,46,Female,Silver,446.6,Grocery,14-05-2024,8,4,Yes
+C135,40,Female,Bronze,346.51,Electronics,15-05-2024,7,12,No
+C136,54,Male,Platinum,391.42,Grocery,16-05-2024,3,5,Yes
+C137,19,Male,Platinum,114.02,Sports,17-05-2024,4,20,Yes
+C138,41,Male,Bronze,496.98,Home & Kitchen,18-05-2024,3,24,No
+C139,52,Male,Gold,70.93,Grocery,19-05-2024,10,17,Yes
+C140,54,Male,Silver,93.13,Sports,20-05-2024,9,14,Yes
+C141,25,Male,Silver,105.97,Home & Kitchen,21-05-2024,9,29,Yes
+C142,28,Male,Gold,483.42,Sports,22-05-2024,1,26,Yes
+C143,43,Female,Gold,120.62,Fashion,23-05-2024,3,13,No
+C144,63,Female,Platinum,113.78,Home & Kitchen,24-05-2024,2,22,Yes
+C145,46,Male,Silver,152.9,Fashion,25-05-2024,7,15,Yes
+C146,55,Male,Bronze,227.14,Home & Kitchen,26-05-2024,8,18,No
+C147,48,Female,Platinum,37.47,Electronics,27-05-2024,4,9,No
+C148,58,Female,Platinum,113.04,Sports,28-05-2024,6,9,Yes
+C149,42,Male,Bronze,389.51,Home & Kitchen,29-05-2024,1,21,Yes
+C150,51,Male,Bronze,34.48,Electronics,30-05-2024,4,12,No
+C151,22,Male,Silver,67.92,Home & Kitchen,31-05-2024,9,12,Yes
+C152,26,Male,Gold,428.65,Sports,01-06-2024,4,2,Yes
+C153,29,Male,Silver,483.99,Electronics,02-06-2024,1,13,No
+C154,52,Male,Bronze,158.05,Grocery,03-06-2024,10,13,Yes
+C155,51,Female,Silver,309.56,Fashion,04-06-2024,4,13,No
+C156,44,Female,Platinum,159.65,Sports,05-06-2024,6,9,No
+C157,59,Male,Bronze,248.29,Grocery,06-06-2024,4,25,Yes
+C158,58,Male,Bronze,235.62,Grocery,07-06-2024,8,19,No
+C159,40,Female,Bronze,61.45,Home & Kitchen,08-06-2024,3,3,No
+C160,44,Male,Silver,179.53,Electronics,09-06-2024,2,6,Yes
+C161,42,Female,Silver,267.96,Electronics,10-06-2024,10,15,No
+C162,55,Male,Silver,370.67,Grocery,11-06-2024,3,26,No
+C163,25,Male,Bronze,219.11,Electronics,12-06-2024,4,27,No
+C164,53,Female,Bronze,300.44,Sports,13-06-2024,3,29,No
+C165,24,Male,Bronze,90.48,Sports,14-06-2024,8,1,No
+C166,22,Female,Platinum,131.94,Grocery,15-06-2024,4,27,No
+C167,61,Male,Bronze,421.9,Sports,16-06-2024,10,28,No
+C168,53,Male,Silver,48.01,Sports,17-06-2024,7,30,No
+C169,43,Male,Platinum,283.59,Grocery,18-06-2024,2,2,Yes
+C170,21,Female,Platinum,403.62,Fashion,19-06-2024,3,10,Yes
+C171,20,Male,Gold,158.63,Sports,20-06-2024,2,20,No
+C172,50,Female,Gold,269.62,Fashion,21-06-2024,1,5,No
+C173,30,Male,Platinum,149.24,Electronics,22-06-2024,9,23,Yes
+C174,60,Male,Bronze,350.88,Sports,23-06-2024,9,29,Yes
+C175,30,Male,Silver,31.67,Electronics,24-06-2024,9,21,No
+C176,58,Male,Platinum,70.75,Fashion,25-06-2024,9,22,No
+C177,43,Male,Platinum,30.57,Electronics,26-06-2024,10,27,No
+C178,26,Male,Platinum,458.26,Sports,27-06-2024,2,18,No
+C179,18,Male,Platinum,449.82,Sports,28-06-2024,10,12,No
+C180,31,Male,Bronze,311.63,Electronics,29-06-2024,1,20,Yes
+C181,65,Male,Bronze,498.39,Sports,30-06-2024,8,25,No
+C182,35,Female,Silver,314.1,Home & Kitchen,01-07-2024,4,25,No
+C183,63,Male,Platinum,315.85,Electronics,02-07-2024,1,13,Yes
+C184,60,Male,Silver,428.88,Grocery,03-07-2024,2,18,Yes
+C185,50,Male,Platinum,212.6,Fashion,04-07-2024,5,2,No
+C186,21,Female,Silver,258.99,Sports,05-07-2024,10,28,Yes
+C187,29,Female,Silver,13.03,Sports,06-07-2024,1,16,No
+C188,41,Male,Silver,216.98,Home & Kitchen,07-07-2024,9,26,No
+C189,38,Female,Bronze,259.54,Sports,08-07-2024,9,10,Yes
+C190,32,Male,Bronze,330.97,Electronics,09-07-2024,6,3,No
+C191,21,Female,Bronze,82.78,Electronics,10-07-2024,3,10,No
+C192,44,Female,Gold,178.58,Electronics,11-07-2024,8,14,Yes
+C193,38,Female,Gold,352.54,Grocery,12-07-2024,2,28,No
+C194,41,Male,Bronze,22.99,Sports,13-07-2024,2,23,Yes
+C195,19,Female,Silver,470.42,Home & Kitchen,14-07-2024,3,18,No
+C196,40,Female,Gold,233.37,Grocery,15-07-2024,4,19,Yes
+C197,19,Female,Gold,202.51,Electronics,16-07-2024,4,19,No
+C198,63,Female,Silver,462.56,Home & Kitchen,17-07-2024,9,12,No
+C199,18,Female,Platinum,270.31,Electronics,18-07-2024,7,29,No
+C200,47,Female,Gold,411.59,Home & Kitchen,19-07-2024,1,23,Yes

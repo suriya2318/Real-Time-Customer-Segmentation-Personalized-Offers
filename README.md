@@ -243,7 +243,7 @@ The workflow is divided into the following steps:
   ![image](https://github.com/user-attachments/assets/828b03fb-2de9-4848-9bd5-c1d22e425aa5)
 
 
-## 4. Final Workflow & Output 
+## Final Workflow & Output 
 
 The final output of the project includes: 
 

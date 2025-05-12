@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6afa3d57-49e7-41e4-87ed-2780b0cb2e09)# Real-Time Customer Segmentation & Personalized Offers Using KNIME
+# Real-Time Customer Segmentation & Personalized Offers Using KNIME
 ## Project Objective
 The goal of this project is to develop a real-time customer segmentation system that helps retail businesses deliver personalized discount offers based on customer purchasing behavior, demographics, and engagement. This enables better marketing targeting, increased customer retention, and improved revenue generation.
 ## Problem Statement 
